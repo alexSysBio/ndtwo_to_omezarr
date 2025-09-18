@@ -1,4 +1,4 @@
-# ndtwo_to_omezarr :microscope: ▶️ :computer:
+# ndtwo_to_omezarr :microscope: &rarr; ▶️ :computer:
 
 Alexandros Papagiannakis, Stanford University, 2025
 
