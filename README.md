@@ -1,4 +1,4 @@
-# ome-zarr Python functions :microscope: &rarr; :computer:
+# OME-Zarr Python functions :microscope: &rarr; :computer:
 
 Alexandros Papagiannakis, Stanford University, 2025
 
