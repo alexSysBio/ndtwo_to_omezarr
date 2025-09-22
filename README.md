@@ -2,7 +2,7 @@
 
 Alexandros Papagiannakis, Stanford University, 2025
 
-This repository includes functions that can be used to convert NumPy arrays into OME-Zarr. Two examples are provided in the <code> apply_omezarr_to_python_github.ipynb </code> notebook with different iteration axes. The functions included can be used to parse time-lapse images with a 'T' iteration axis, across multiple XY positions ('P','V','M' or 'S')The Napari viewer is also applied for specific XY positions. Additionally the <code> ndtwo_to_omezarr </code> function can be used directly to parse .nd2 files into OME-Zarr.
+This repository includes functions that can be used to convert NumPy arrays into OME-Zarr. Two examples are provided in the <code> apply_omezarr_to_python_github.ipynb </code> notebook with different iteration axes. The functions included can be used to parse time-lapse images with a 'T' iteration axis, across multiple XY positions ('P','V','M' or 'S')The Napari viewer is also applied for specific XY positions. The <code> ndtwo_to_omezarr </code> function directly parses .nd2 files into OME-Zarr. The underlying functions are used in the <code>omero_exec.py</code>, <code>omezarr_auxiliary.py</code>, <code>omezarr_napari_view.py</code> and <code>ndtwo_to_python.py</code> scripts.
 
 
 ### Example 1: {'T': 65, 'C': 2, 'Y': 512, 'X': 512} ### 
