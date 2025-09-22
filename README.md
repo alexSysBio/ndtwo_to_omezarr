@@ -6,7 +6,7 @@ This repository includes functions that can be used to convert, store and read .
 
 
 ### Example 1: {'T': 65, 'C': 2, 'Y': 512, 'X': 512} ### 
-OME pyramid
+
 <pre style="white-space:pre;overflow-x:auto;line-height:normal;font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="font-weight: bold">/</span>
 ├── <span style="font-weight: bold">0</span> (65, 2, 512, 512) uint16
 ├── <span style="font-weight: bold">1</span> (65, 2, 256, 256) uint16
@@ -16,7 +16,7 @@ OME pyramid
 </pre>
 
 ### Example 2: {'T': 49, 'P': 5, 'C': 2, 'Y': 2048, 'X': 2048} ###
-OME pyramid
+
 <pre style="white-space:pre;overflow-x:auto;line-height:normal;font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="font-weight: bold">/</span>
 ├── <span style="font-weight: bold">0</span>
 │   ├── <span style="font-weight: bold">0</span> (49, 2, 2048, 2048) uint16
