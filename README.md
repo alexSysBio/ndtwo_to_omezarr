@@ -1,4 +1,4 @@
-# ndtwo_to_omezarr :microscope: &rarr; :computer:
+# ome-zarr functions :microscope: &rarr; :computer:
 
 Alexandros Papagiannakis, Stanford University, 2025
 
